@@ -1,0 +1,52 @@
+body {
+  background-color: #d7fbe8;
+  color: #105645;
+  font-family: 'Montserrat', sans-serif;
+  max-width:1500px;
+
+
+}
+nav {
+  background-color: #9df3c4;
+
+}
+.navbar{
+  padding: 0.7rem 4rem;
+}
+.search-box{
+  float: right;
+  margin-right: 3rem;
+}
+
+.logo-text{
+  font-family: 'Berkshire Swash', cursive;
+}
+
+.fa-icon {
+    color: #62d2a2;
+    margin-bottom: 1rem;
+}
+.fa-icon:hover {
+    color: #105645;
+}
+.editorial{
+  margin: 1.5rem 4rem;
+}
+.editorial_f{
+  margin: 0.5rem 0.5rem;
+}
+.feature-box {
+
+    text-align: center;
+    padding: 1.5%;
+    background-color: #abf7ce;
+}
+.about{
+  margin: 1.5rem 3rem;
+  text-align: center;
+  padding: 3rem;
+  background-color: #abf7ce;
+}
+footer {
+    background-color: #167960;
+}
